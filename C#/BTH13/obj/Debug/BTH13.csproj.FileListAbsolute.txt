@@ -1,0 +1,9 @@
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\bin\Debug\BTH13.exe.config
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\obj\Debug\BTH13.csprojResolveAssemblyReference.cache
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\obj\Debug\BTH13.frmTacgia_Load.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\obj\Debug\BTH13.Properties.Resources.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\obj\Debug\BTH13.csproj.GenerateResource.Cache
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\bin\Debug\BTH13.exe
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\bin\Debug\BTH13.pdb
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\obj\Debug\BTH13.exe
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH13\obj\Debug\BTH13.pdb
