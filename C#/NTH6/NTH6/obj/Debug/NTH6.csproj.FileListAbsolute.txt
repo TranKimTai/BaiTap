@@ -1,0 +1,18 @@
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\bin\Debug\NTH6.exe.config
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\bin\Debug\NTH6.exe
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\bin\Debug\NTH6.pdb
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.csprojResolveAssemblyReference.cache
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.Form1.resources
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.Properties.Resources.resources
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.csproj.GenerateResource.Cache
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.exe
+D:\!!!!KIM TAI\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.pdb
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\bin\Debug\NTH6.exe.config
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.exe
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.pdb
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\bin\Debug\NTH6.exe
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\bin\Debug\NTH6.pdb
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.csprojResolveAssemblyReference.cache
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.Form1.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.Properties.Resources.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\NTH6\NTH6\obj\Debug\NTH6.csproj.GenerateResource.Cache
