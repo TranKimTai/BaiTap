@@ -1,0 +1,12 @@
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\bin\Debug\BTH5.exe.config
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\bin\Debug\BTH5.exe
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\bin\Debug\BTH5.pdb
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\obj\Debug\BTH5.csprojResolveAssemblyReference.cache
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\obj\Debug\BTH5.Form1.resources
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\obj\Debug\BTH5.Properties.Resources.resources
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\obj\Debug\BTH5.csproj.GenerateResource.Cache
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\obj\Debug\BTH5.exe
+D:\!!!!KIM TAI\LTUDWD\BTH5\BTH5\obj\Debug\BTH5.pdb
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH5\BTH5\bin\Debug\BTH5.exe.config
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH5\BTH5\obj\Debug\BTH5.exe
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDWD\BTH5\BTH5\obj\Debug\BTH5.pdb
