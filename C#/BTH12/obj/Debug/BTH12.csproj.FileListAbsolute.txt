@@ -1,0 +1,22 @@
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\bin\Debug\BTH12.exe.config
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\bin\Debug\BTH12.exe
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\bin\Debug\BTH12.pdb
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\obj\Debug\BTH12.csprojResolveAssemblyReference.cache
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\obj\Debug\BTH12.Form1.resources
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\obj\Debug\BTH12.Properties.Resources.resources
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\obj\Debug\BTH12.csproj.GenerateResource.Cache
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\obj\Debug\BTH12.exe
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH12\obj\Debug\BTH12.pdb
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\bin\Debug\BTH12.exe.config
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.exe
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.pdb
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\bin\Debug\BTH12.exe
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\bin\Debug\BTH12.pdb
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.csprojResolveAssemblyReference.cache
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.fmTacGia.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.frmTacgia_TH13.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.Properties.Resources.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.csproj.GenerateResource.Cache
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.frmDauSach.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.frmNXB.resources
+D:\!!!!KIM TAI LTWD&PPTKHTTT\LTUDW\BTH12\obj\Debug\BTH12.frmTheLoai.resources
