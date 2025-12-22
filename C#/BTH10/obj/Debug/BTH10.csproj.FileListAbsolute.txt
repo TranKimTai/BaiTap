@@ -1,0 +1,10 @@
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\bin\Debug\BTH10.exe.config
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\bin\Debug\BTH10.exe
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\bin\Debug\BTH10.pdb
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\obj\Debug\BTH10.csprojResolveAssemblyReference.cache
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\obj\Debug\BTH10.frmDSSinhvien.resources
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\obj\Debug\BTH10.frmTTSinhvien.resources
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\obj\Debug\BTH10.Properties.Resources.resources
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\obj\Debug\BTH10.csproj.GenerateResource.Cache
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\obj\Debug\BTH10.exe
+D:\110123040_PhamThiHongPhuong\LTUDW\BTH10\obj\Debug\BTH10.pdb
