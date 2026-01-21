@@ -1,0 +1,39 @@
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.AssemblyReference.cache
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmBenhNhan.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmDichVu.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmKhamBenh.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmLichSuKham.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmLogin.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmMain.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmNhanVien.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmThanhToan.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmThongKe.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmThuoc.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\nam_3\HK_I\WinForm\ketThucMon\QuanLyPhongKham\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe.config
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.exe
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\bin\Debug\QuanLyPhongKham.pdb
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.AssemblyReference.cache
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe.config
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmBenhNhan.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmDichVu.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmKhamBenh.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmLichSuKham.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmLogin.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmMain.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmNhanVien.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmThanhToan.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmThongKe.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.GUI.frmThuoc.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.Properties.Resources.resources
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.GenerateResource.cache
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.csproj.CoreCompileInputs.cache
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.exe
+D:\LTUDWD\QuanLyPhongKham (1)\QuanLyPhongKham\QuanLyPhongKham\obj\Debug\QuanLyPhongKham.pdb
